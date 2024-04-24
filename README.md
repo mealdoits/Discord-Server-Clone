@@ -1,6 +1,6 @@
 # DISCORD-SERVER-CLONER
 <h1 align="center">
-Discord Server Clone
+Discord Server Cloner
 </h1>
 
 ![Captura de tela 2024-04-24 155419](https://github.com/mealdoits/Discord-Server-Cloner/assets/102965097/37254611-83e1-4f5b-ae41-dca43b329ebc)
